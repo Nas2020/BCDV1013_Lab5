@@ -1,0 +1,27 @@
+{
+  "name": "BCDV1013_Lab5",
+  "version": "1.0.0",
+  "description": "This lab is aimed to learn developing, compiling, deploying and interacting with contract without IDE. You can use the ethereum network provider (local or testnet) and API library (web3 or ether js) of your choice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nas2020/BCDV1013_Lab5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nas2020/BCDV1013_Lab5/issues"
+  },
+  "homepage": "https://github.com/Nas2020/BCDV1013_Lab5#readme",
+  "devDependencies": {
+    "solc": "^0.6.11"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "web3": "^1.2.10"
+  }
+}

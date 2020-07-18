@@ -19,4 +19,7 @@ Create a script to interact with all public functions of deployed contract and t
 Create a script that listens to the event emitted by deployed contract and test it.
 Push the code to github repository and submit the URL to mark the submission.
 
-If your repository is private, invite me to collaborate using my GitHub handle @dhruvinparikh93
+CONTRACT_ADDRESS=0xd1687Ac41c2993d91f97a3e406123c703cEf00B7
+Deployed into Rinkbey Test network: 
+URL: 
+https://rinkeby.etherscan.io/address/0xd1687Ac41c2993d91f97a3e406123c703cEf00B7
